@@ -1,7 +1,7 @@
 {
   "name": "react-drag-element",
-  "version": "0.1.0",
-  "description": "Put a description here",
+  "version": "0.1.1",
+  "description": "react-drag-element provides a very simple way to make any react component draggable or floating on the screen. It also calculates top and left positions for draggable component.",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "16.6.1"
