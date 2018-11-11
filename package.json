@@ -1,6 +1,6 @@
 {
   "name": "react-drag-element",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Put a description here",
   "main": "build/index.js",
   "peerDependencies": {
@@ -40,10 +40,10 @@
     "react-draggable",
     "react-dnd",
     "drag",
-		"drop",
+    "drop",
     "html5",
     "javascript",
-		"react-component"
+    "react-component"
   ],
   "repository": {
     "type": "git",
