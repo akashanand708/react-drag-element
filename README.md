@@ -4,6 +4,8 @@ react-drag-element provides a very simple way to make any react component dragga
 # Installation
 `npm install react-drag-element`
 
+# Sample
+![](ezgif.com-video-to-gif.gif)
 # Quick Start
 
 ```
